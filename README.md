@@ -1,4 +1,4 @@
-# Amazon-Web-Scrapping
+# Amazon-Web-Scraping
 
 A Python-based web scraping project that extracts product price data from an Amazon product page and stores it in a structured CSV file for analysis and tracking.
 This project demonstrates practical skills in web scraping, data cleaning, and CSV data handling.
